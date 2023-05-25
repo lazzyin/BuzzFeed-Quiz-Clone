@@ -1,0 +1,29 @@
+{
+    "title":"Você seri um heroi ou vilão?",
+    "questions":[
+        {
+            "id":1,
+            "option":[
+                {"id":1,"name":"Raios-Lasers","alias":"A"},
+                {"id":2,"name":"Voar","alias":"B"},
+                {"id":3,"name":"Explodir Coisas","alias":"A"},
+                {"id":4,"name":"Curar feridas","alias":"B"},
+                {"id":5,"name":"Soltar fogo pelas mãos","alias":"A"}
+            ]
+        },
+        {
+            "id":2,
+            "option":[
+                {"id":1,"name":"Raios-Lasers","alias":"A"},
+                {"id":2,"name":"Voar","alias":"B"},
+                {"id":3,"name":"Explodir Coisas","alias":"A"},
+                {"id":4,"name":"Curar feridas","alias":"B"},
+                {"id":5,"name":"Soltar fogo pelas mãos","alias":"A"}
+            ]
+        }
+    ],
+    "results":{
+        "A":"Você seria um vilão",
+        "B":"Você seria um heroi"
+    }
+}
