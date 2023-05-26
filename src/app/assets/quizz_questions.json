@@ -1,9 +1,10 @@
 {
-    "title":"Você seri um heroi ou vilão?",
+    "title":"Você seria um heroi ou vilão?",
     "questions":[
         {
             "id":1,
-            "option":[
+            "question":"Qual super poder você escolheria?",
+            "options":[
                 {"id":1,"name":"Raios-Lasers","alias":"A"},
                 {"id":2,"name":"Voar","alias":"B"},
                 {"id":3,"name":"Explodir Coisas","alias":"A"},
@@ -13,7 +14,8 @@
         },
         {
             "id":2,
-            "option":[
+            "question":"2-Qual super poder você escolheria?",
+            "options":[
                 {"id":1,"name":"Raios-Lasers","alias":"A"},
                 {"id":2,"name":"Voar","alias":"B"},
                 {"id":3,"name":"Explodir Coisas","alias":"A"},
